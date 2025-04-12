@@ -6,4 +6,4 @@
 5. use pivot table and chart
 6. creat dashboard for understanding the data
 7. BDM
-8. 
+8. ![Image](https://github.com/user-attachments/assets/0a00ab82-207e-49f9-b215-e27e0beafba1)
