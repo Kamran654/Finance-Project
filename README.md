@@ -18,5 +18,4 @@ Stock levels are almost evenly distributed across product ratings,
  with low-rated (1 and 2 stars) items making up 40% of inventory.
 Most product categories have a fairly balanced stock distribution across 
 1–3 years warranty periods, with Smartphones showing a spike (9.21%) at 3 years.
-![image](https://github.com/user-attachments/assets/7f2ed04e-a48b-4fed-90be-e513e89e2d14)
 
