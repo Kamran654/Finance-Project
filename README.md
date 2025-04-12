@@ -6,3 +6,4 @@
 5. use pivot table and chart
 6. creat dashboard for understanding the data
 7. BDM
+8. 
